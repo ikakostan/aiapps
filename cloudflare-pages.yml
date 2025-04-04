@@ -1,6 +1,6 @@
 # Cloudflare Pages configuration for Hugo
 name: aiapps
 build:
-  command: hugo
+  command: hugo && npx wrangler deploy
   output_dir: public
   root_dir: .

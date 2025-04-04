@@ -1,4 +1,1 @@
 # Removed the submodule entry for themes/hugo-clarity
-[submodule "themes/hugo-clarity"]
-	path = themes/hugo-clarity
-	url = https://github.com/chipzoller/hugo-clarity

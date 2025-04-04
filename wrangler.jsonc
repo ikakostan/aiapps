@@ -1,6 +1,9 @@
 {
   "name": "aiapps",
   "compatibility_date": "2025-04-04",
+  "build": {
+    "command": "hugo"
+  },
   "assets": {
     "directory": "./public"
   }
